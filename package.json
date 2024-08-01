@@ -1,0 +1,23 @@
+{
+  "name": "express-ts-emacuello",
+  "version": "1.0.2",
+  "description": "Plantilla para express con typescript by Emacuello",
+  "main": "index.js",
+  "bin": {
+    "express-ts-emacuello": "./index.js"
+  },
+  "scripts": {
+    "init": "node ./index.js"
+  },
+  "keywords": [],
+  "author": "emacuello",
+  "license": "MIT",
+  "dependencies": {
+    "@inquirer/core": "^9.0.2",
+    "@inquirer/prompts": "^5.1.2",
+    "chalk": "^5.3.0",
+    "inquirer": "^9.3.4",
+    "yoctocolors": "^2.1.1"
+  },
+  "type": "module"
+}

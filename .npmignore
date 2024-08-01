@@ -1,0 +1,13 @@
+# Ignorar directorios
+node_modules
+dist
+coverage
+
+# Ignorar archivos específicos
+.env
+.DS_Store
+Thumbs.db
+
+# Ignorar archivos de configuración
+.git
+.vscode
